@@ -39,3 +39,17 @@ Recently his latest book on Mastering Apache Spark V2.X (http://amzn.to/2vUHkGl)
 
 Romeo Kienzler is a member of the IBM Technical Expert Council and the IBM Academy of Technology - IBM’s leading brain trusts. #ibmaot
 
+![alt text](https://github.com/romeokienzler/me/raw/master/img/41AW39ZZ3ML.jpg)
+
+![alt text](https://github.com/romeokienzler/me/raw/master/img/FT363.jpg)
+
+![alt text](https://github.com/romeokienzler/me/raw/master/img/51fGRS4JZPL.jpg)
+
+![alt text](https://github.com/romeokienzler/me/raw/master/img/61YkJQWjDvL.jpg)
+
+![alt text](
+https://github.com/romeokienzler/me/raw/master/img/71TgZROmcCL.jpg)
+
+
+
+

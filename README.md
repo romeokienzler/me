@@ -10,7 +10,7 @@ IBM Center for Open Source Data and AI Technologies 505 Howard St, San Francisco
 BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1  
 RIOT/Matrix: @romeokienzler:matrix.org
 
-Using unencrypted E-Mail highly discouraged
+Using unencrypted E-Mail highly discouraged  
 Send me an encrypted PGP message (worst case using this link https://encrypt.to/0xB1572DB3FAA091D6)
 
 # Shared work

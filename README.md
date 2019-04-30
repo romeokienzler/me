@@ -1,6 +1,8 @@
 # Personal Information
-Chief Data Scientist, IBM Center for Open Source Data and AI Technologies (CODAIT) San Fransisco, Member of IBM Technical Expert Council / Academy of Technology
-http://nopanic.ai
+Chief Data Scientist, DeepLearning/AI Engineer  
+Strategy Lead - AI Model Training
+Member of IBM Academy of Technology + Technical Expert Council CR
+IBM Center for Open Source Data and AI Technologies 505 Howard St, San Francisco, CA, USA
 
 
 
@@ -8,12 +10,18 @@ http://nopanic.ai
 BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1  
 RIOT/Matrix: @romeokienzler:matrix.org
 
+Using unencrypted E-Mail highly discouraged
+Send me an encrypted PGP message (worst case using this link https://encrypt.to/0xB1572DB3FAA091D6)
+
 # Shared work
 Slides of my talks:  
 https://github.com/romeokienzler/slides/
 
 Recordings of my talks:  
 https://www.youtube.com/c/RomeoKienzler
+
+Courses I'm teaching:
+https://www.coursera.org/specializations/advanced-data-science-ibm
 
 # Bio
 

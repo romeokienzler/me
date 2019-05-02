@@ -37,7 +37,7 @@ https://www.coursera.org/learn/ai/
 * Deep Learning (in CAS Practical Machine Learning)  
 https://www.bfh.ch/ti/de/weiterbildung/cas/practical-machine-learning/
 
-* Hyperledger (in BlockChain elevtive)  
+* Hyperledger (in BlockChain elective)  
 [https://www.fhnw.ch](https://www.fhnw.ch/de/die-fhnw/hochschulen/ht/institute/institut-fuer-business-engineering/ibe-newsletter/blockchain-eine-disruptive-technologie)
 
 # Bio

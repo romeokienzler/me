@@ -1,7 +1,5 @@
 # Personal Information
-Chief Data Scientist, DeepLearning/AI Engineer  
-Strategy Lead - AI Model Training  
-Member of IBM Academy of Technology + Technical Expert Council CR  
+Human on Planet Earth
 IBM Center for Open Source Data and AI Technologies 505 Howard St, San Francisco, CA, USA
 
 

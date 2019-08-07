@@ -48,7 +48,7 @@ He works as Associate Professor for artificial intelligence at the Swiss Univers
 
 He also contributes to various open source projects. He regularly speaks at international conferences including significant publications in the area of data mining, machine learning and Blockchain technologies. 
 
-Romeo is lead instructor of the Advance Data Science specialisation on Courera https://www.coursera.org/specializations/advanced-data-science-ibm with courses on Scalable Data Science, Advanced Machine Learning, Signal Processing and Applied AI with DeepLearning
+Romeo is lead instructor of the Advance Data Science specialisation on Coursera https://www.coursera.org/specializations/advanced-data-science-ibm with courses on Scalable Data Science, Advanced Machine Learning, Signal Processing and Applied AI with DeepLearning
 
 Recently his latest book on Mastering Apache Spark V2.X (http://amzn.to/2vUHkGl) has been translated into Chinese (http://www.flag.com.tw/books/product/FT363). 
 

@@ -1,6 +1,8 @@
 # Personal Information
 Chief Data Scientist  
-IBM Center for Open Source Data and AI Technologies 505 Howard St, San Francisco, CA, USA
+IBM Center for Open Source Data and AI Technologies  
+505 Howard St  
+San Francisco, CA, USA
 
 
 

@@ -1,5 +1,5 @@
 # Personal Information
-Chief Data Scientist
+Chief Data Scientist  
 IBM Center for Open Source Data and AI Technologies 505 Howard St, San Francisco, CA, USA
 
 

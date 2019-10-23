@@ -9,9 +9,7 @@ San Francisco, CA, USA
 # Contact Details
 BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1  
 RIOT/Matrix: @romeokienzler:matrix.org
-
-Using unencrypted E-Mail highly discouraged  
-Send me an encrypted PGP message (worst case using this link https://encrypt.to/0xB1572DB3FAA091D6)
+Keybase: romeokienzler
 
 # Shared work
 Slides of my talks:  

@@ -42,11 +42,11 @@ https://www.bfh.ch/ti/de/weiterbildung/cas/practical-machine-learning/
 
 # Bio
 
-Romeo Kienzler is Chief Data Scientist at the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco, owning the strategy lead for AI Model Training.
+Romeo Kienzler the Chief Data Scientist of the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
 
 He holds an M. Sc. (ETH) in Computer Science with specialisation in Information Systems, Bioinformatics and Applied Statistics from the Swiss Federal Institute of Technology Zurich. 
 
-He works as Associate Professor for artificial intelligence at the Swiss University of Applied Sciences Berne and his current research focus is on cloud-scale machine learning and deep learning using open source technologies including TensorFlow, Keras, DeepLearning4J, Apache SystemML and the Apache Spark stack. 
+He works as Associate Professor for Artificial Intelligence at the Swiss University of Applied Sciences Berne and Adjunct Professor for Information Security at the Swiss University of Applied Sciences Northwestern Switzerland (FHNW). His current research focus is on cloud-scale machine learning and deep learning using open source technologies including TensorFlow, Keras, DeepLearning4J, Apache SystemML and the Apache Spark stack. 
 
 He also contributes to various open source projects. He regularly speaks at international conferences including significant publications in the area of data mining, machine learning and Blockchain technologies. 
 

@@ -8,7 +8,7 @@ San Francisco, CA, USA
 
 # Contact Details
 BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1  
-RIOT/Matrix: @romeokienzler:matrix.org
+RIOT/Matrix: @romeokienzler:matrix.org  
 Keybase: romeokienzler
 
 # Shared work

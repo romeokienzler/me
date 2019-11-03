@@ -29,6 +29,10 @@ http://coursera.org/learn/ds
 * Advanced Machine Learning and Signal Processing  
 http://coursera.org/learn/advanced-machine-learning-signal-processing
 
+*Scalable Machine Learning on Big Data using Apache Spark part of IBM AI Engineering Professional Certificate
+https://www.coursera.org/learn/machine-learning-big-data-apache-spark/
+
+
 * Applied AI using DeepLearning  
 https://www.coursera.org/learn/ai/
 

@@ -44,7 +44,7 @@ https://www.bfh.ch/ti/de/weiterbildung/cas/practical-machine-learning/
 
 # Bio
 
-Romeo Kienzler the Chief Data Scientist of the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
+Romeo Kienzler is the Chief Data Scientist of the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
 
 He holds an M. Sc. (ETH) in Computer Science with specialisation in Information Systems, Bioinformatics and Applied Statistics from the Swiss Federal Institute of Technology Zurich. 
 

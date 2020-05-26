@@ -1,10 +1,12 @@
 # Personal Information
-Chief Data Scientist  
+*Romeo Kienzler*
+
+Chief Data Scientist
 IBM Center for Open Source Data and AI Technologies  
 505 Howard St  
 San Francisco, CA, USA
 
-
+<img src="https://github.com/romeokienzler/me/raw/master/img/profile_ai.jpg" width="250">
 
 # Contact Details
 BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1  

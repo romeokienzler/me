@@ -11,6 +11,8 @@ BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1
 RIOT/Matrix: @romeokienzler:matrix.org  
 Keybase: romeokienzler
 
+# List of prepared >>[Talks](https://github.com/romeokienzler/me/blob/master/TALKS.md)<<
+
 # Shared work
 Slides of my talks:  
 https://github.com/romeokienzler/slides/

@@ -41,3 +41,23 @@ Prerequisite knowledge for this presentation?
  
 * Basic machine learning
 * Basic python
+
+# What’s new in Apache Spark 2.4
+ 
+Apache Spark is the de-facto standard for massive parallel data processing at Enterprise and Cloud Scale - after an introduction in how Apache Spark works let’s have a look on what’s new in Version 2.4 and how the new features are impacting the Big Data and AI ecosystem from an architectural point of view.
+
+# DeepLearning for Developers - Introduction to DeepLearning with Keras and TensorFlow
+ 
+TensorFlow is an awesome library. But for the average developer fiddling with linear algebra is far to complicated. In this talk we'll give you a fast track recipe to master DeepLearning challenges using the Keras framework on top of TensorFlow. We'll start with basic image classification, show how you can implement a chat- bot and end with a Cryptocurrency price predictor. At the end of this talk you'll know how Convolutional Neural Networks, Long-Short-Term Memory Networks and Autoencoders work and how you can apply them using Keras and TensorFlow.
+
+# From Zero to Singularity - Designing the AI that humans need
+ 
+We have tried many things. All of those work to a certain extent. Some make us stronger, some make us faster, some make us sick. The ability to think always has been a major challenge. Consciousness is the state or quality of awareness or of being aware of an external object or something within oneself. At least this is the definition on wikipedia. Brute-force state space exploration in chess? Attacking a knowledge base with grammar? Blue Gene and Watson did the job. Artificial neural tissue running In Silico is the latest craze - outperforming human baseline in various cognitive tasks. Let’s extrapolate the latest developments in that space and project. Even conservatively minded folks will notice that things can get out of control. Actually they are already. Or aren’t they? In this talk we’ll cover state of the art AI in robotics and decision making to find out where we are - between zero and singularity. And what steps need to be done to design an AI that humans need. In an open, decentralized, interconnected and unbiased way.
+
+# The next leap towards Singularity? Generative Adversarial Networks - Introduction and Application
+ 
+When training a deep neural network, concepts we know as humans are buried into weights between neurons. So when training an image classifier, concepts of dogs and cats are known by the neural network. But these concepts have been in-accessible. GANs are different. GANs can create new data using these hidden concepts. Let's talk about how they work and discuss their applications.
+
+
+ 
+

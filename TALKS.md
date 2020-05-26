@@ -6,6 +6,11 @@ how they can be used in practice.
 
 We conclude with an outlook on the future of these technologies.
 
+# Trusted AI – Building Reproducible, Unbiased and Robust AI Pipelines using the python OpenSource stack
+ 
+We are just in the middle of the DeepLearning hype. A lot of things are done, but production deployments are still rare. One of the reasons is that untrusted AI doesn’t make it into production. The concerns are just too high. In this talk we’ll show how data lineage, bias detection, adversarial robustness and model explainability can be achieved using an open source stack
+
+
 # The Open ML and AI DevOps toolsuite of the future
  
 In 2019 we've noticed a tremendous shift of client demand on model creation to model deployment and monitoring. This indicates a further step towards maturity of wider AI adoption within enterprises. In this talk we'll introduce you to the latest developments in the most widely used DeepLearning framework TensorFlow 2.1. We show how Kubernetes and Kubeflow Pipelines work and how Open Data Hub provides a Open Source powered platform for data science. Finally, we show you an end to end project example of a product using all of those components in harmony.
@@ -57,6 +62,22 @@ We have tried many things. All of those work to a certain extent. Some make us s
 # The next leap towards Singularity? Generative Adversarial Networks - Introduction and Application
  
 When training a deep neural network, concepts we know as humans are buried into weights between neurons. So when training an image classifier, concepts of dogs and cats are known by the neural network. But these concepts have been in-accessible. GANs are different. GANs can create new data using these hidden concepts. Let's talk about how they work and discuss their applications.
+
+# The AI universe speaks Python - Lessons learned from a Coursera Instructor 
+
+As a Sun Certified Java Programmer and Developer, and after working in 100s of JEE/WebSphere projects for IBM I never could imagine using anything else than Java. Even when planning for the first coursera course - "Fundamentals of Scalable DataScience" - we had tons of discussions whether we should use Scala, R or python for it. Now Python is an obvious choice for data science and we are using it for our "Advanced Machine Learning and Signal Processing" course as well as for the "Applied AI using DeepLearning" course. So in this talk I'll give you a summary on how to use Python and ApacheSpark on top of different machine learning and deep learning frameworks like SparkML, SystemML, Keras, DeepLearning4J to build scalable brains for AI. I'll finalise with a summary on Fabric for DeepLearning and the Docker/Kubernetes based Open IBM Model Asset Exchange.
+
+# Scalable and Fault Tolerant Machine Learning and DeepLearning on Microservices
+ 
+Summary - This talk explains how machine learning and deep learning can be made accessible to the broader ecosystem by providing consumable services in a micro services infrastructure.
+ 
+This session explains one of the most important steps in creating a data product. Most DataScience projects nowadays start with a notebook. But in order to be consumable by others model scoring but also model training has to be consumable, even if you don’t have a Ph. D. in math. This talk shows how models implemented in the most common machine learning and deep learning frameworks can be provided as micro service in a scalable and fault tolerant way using container infrastructure on top of GPUs.
+ 
+# Introduction to NodeRED, open source data flow/ETL on Node.js
+ 
+NodeRED is one of IBM's recent contribution to OpenSource. We've seen examples of NodeRED processing 1.000.000 msg/s on 64 MB main memory footprint. Learn how you can use NodeRED on the Cloud (any cloud vendor is supported), on your machine, in your data center or even on an Raspberry Pi
+
+
 
 
  

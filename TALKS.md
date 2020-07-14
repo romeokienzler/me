@@ -13,7 +13,7 @@ We are just in the middle of the DeepLearning hype. A lot of things are done, bu
 
 # The Open ML and AI DevOps toolsuite of the future
  
-In 2019 we've noticed a tremendous shift of client demand on model creation to model deployment and monitoring. This indicates a further step towards maturity of wider AI adoption within enterprises. In this talk we'll introduce you to the latest developments in the most widely used DeepLearning framework TensorFlow 2.1. We show how Kubernetes and Kubeflow Pipelines work and how Open Data Hub provides a Open Source powered platform for data science. Finally, we show you an end to end project example of a product using all of those components in harmony.
+In 2019 we've noticed a tremendous shift of client demand on model creation to model deployment and monitoring (CI/CD). This indicates a further step towards maturity of wider AI adoption within enterprises. In this talk we'll introduce you to the latest developments in the most widely used DeepLearning framework TensorFlow 2.x. We show how Kubernetes and Kubeflow Pipelines work and how Open Data Hub provides a Open Source powered platform for all data science tasks. Finally, we show you an end to end project example of a product using all of those components in harmony.
 
 # Building Brains - Parallel training strategies of large-scale deep learning neural networks
  

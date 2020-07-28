@@ -9,7 +9,7 @@ San Francisco, CA, USA
 <img src="https://github.com/romeokienzler/me/raw/master/img/profile_ai.jpg" width="250">
 
 # Contact Details
-BitMessage: BM-NB6kbWVAvVGkAqsE7a1PKTbLdas9TvA1  
+BitMessage: lost private key, new one coming soon :)  
 RIOT/Matrix: @romeokienzler:matrix.org  
 Keybase: romeokienzler
 
@@ -46,7 +46,11 @@ https://www.bfh.ch/ti/de/weiterbildung/cas/practical-machine-learning/
 * Hyperledger (in BlockChain elective)  
 [https://www.fhnw.ch](https://www.fhnw.ch/de/die-fhnw/hochschulen/ht/institute/institut-fuer-business-engineering/ibe-newsletter/blockchain-eine-disruptive-technologie)
 
+# Speaker announcement
+Romeo is a data scientist working for IBM and an advocate for ethical machine learning, transparency and privacy
+
 # Bio
+PLEASE DON'T USE THE BIO AS SPEAKER ANNONCEMENT - IT IS ONLY THERE TO SHOW OFF TO GET PAPERS ACCEPTED - PLEASE USE SPEAKER ANNOUNCEMENT ABOVE
 
 Romeo Kienzler is Chief Data Scientist at the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
 

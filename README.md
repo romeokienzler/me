@@ -22,7 +22,7 @@ https://github.com/romeokienzler/slides/
 Recordings of my talks:  
 https://www.youtube.com/c/RomeoKienzler
 
-Courses I'm teaching:  
+Courses I'm teaching (which you can get for free http://ibm.biz/community-coursera):  
 
 * IBM Advanced Data Science Certificate on coursera  
 https://www.coursera.org/specializations/advanced-data-science-ibm

@@ -8,7 +8,11 @@ Although an instance of the Open Source Data Science Platform is provided to you
 
 Central to the platform is a data lake. Here S3 is used as it emerged to a standard across all major cloud providers and also through Ceph and Minio open source alternatives are available for on-prem usage. In this tutorial we will use minio as a foundation to our data lake.
 
-Apache Spark will be used as engine for data ingestion as well as providing a JDBC access layer to S3 data to be consumed by Apache Superset, the open source BI tool. Having a BI tool allowing for arbitrary stakeholders to explore data without coding skills is a key catalyst for getting buy in from stakeholders to promote data science projects.
+Apache Spark will be used as engine for data ingestion as well as providing a JDBC access layer to S3 data to be consumed by Apache Superset, the open source BI tool. Having a BI tool allowing for arbitrary stakeholders to explore data without coding skills is a key catalyst for getting buy in from stakeholders to promote data science projects. At the same time, the ODBC/JDBC interface allows for existing, commercial BI tools to connect to the data lake as well.
+
+For programmers and data scientists we show how to create an operator library using jupyter notebooks and python scripts which can be dragged and dropped to the pipeline canvas of Elyra-AI and automatically compiled and deployed to Kubeflow Pipelines pushing all your workload to Kubernetes.
+
+Finally, with ML Ops, which includes pushing ML models to Seldon for seamless model serving on Kubernetes and assessing and monitoring model quality (performance, bias, fairness, adversarial robustness, drift, ...).
 
 
 

@@ -26,7 +26,11 @@ We conclude with an outlook on the future of these technologies.
 
 # Trusted AI – Building Reproducible, Unbiased and Robust AI Pipelines using the python OpenSource stack
  
-We are just in the middle of the DeepLearning hype. A lot of things are done, but production deployments are still rare. One of the reasons is that untrusted AI doesn’t make it into production. The concerns are just too high. In this talk we’ll show how data lineage, bias detection, adversarial robustness and model explainability can be achieved using an open source stack
+We are just in the middle of the DeepLearning hype. A lot of things are done, but enterprises are still struggling on production deployments. One of the reasons is that untrusted AI raises a lot of concerns. In this talk we’ll explain data lineage, bias detection, adversarial robustness and model explainability and how it can be achieved using an open source stack. Key takeaways:
+
+- Introduction to the key concerns on large scale AI adoption in the Enterprise
+- Explaination of the terms data lineage, bias detection, adversarial robustness and model explainability
+- Presentation of an open source framework to migitage these aspects
 
 
 # The Open ML and AI DevOps toolsuite of the future

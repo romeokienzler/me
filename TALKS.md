@@ -1,3 +1,7 @@
+# Applied Deep Reinforcement Learning for Finance
+Why are most DeepRL publications on playing video games? Because we have a perfect simulator? Can’t we use the abundance of historic financial data as a simulator for trading bots. I meant agents of course. This workshop covers the basics of DeepRL and takes you towards an end to end implementation of a DeepRL based bot for cryptocurrency trading. This is contribution  to democratize Artificial Intelligence in Finance.
+
+
 # How to build a self-serving data science platform with Open Source only
 ## Short Abstract
 Cloud data science platforms are a nice thing as they completely remove the burden to operate them and let employees concentrate on solving problems. But this also often means complete vendor lock-in. In this tutorial we present the Open Source Data Science Platform which runs on any Kubernetes environment. In the cloud, in your data center and even on your laptop.

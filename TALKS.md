@@ -1,5 +1,5 @@
-# Applied Deep Reinforcement Learning for Finance
-Why are most DeepRL publications on playing video games? Because we have a perfect simulator? Can’t we use the abundance of historic financial data as a simulator for trading bots. I meant agents of course. This workshop covers the basics of DeepRL and takes you towards an end to end implementation of a DeepRL based bot for cryptocurrency trading. This is contribution  to democratize Artificial Intelligence in Finance.
+# Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
+Why are most DeepRL publications on playing video games? Because we have a perfect simulator? Can’t we use the abundance of historic financial data as a simulator for trading bots. I meant agents of course. This workshop covers the basics of DeepRL by explaining how AlphaGo Zero works and takes you towards an end to end implementation of a DeepRL based bot for trading. This is my contribution to democratize Artificial Intelligence in Finance.
 
 
 # How to build a self-serving data science platform with Open Source only

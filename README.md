@@ -64,7 +64,9 @@ He also contributes to various open source projects. He regularly speaks at inte
 
 Romeo is lead instructor of the Advance Data Science specialisation on Coursera https://www.coursera.org/specializations/advanced-data-science-ibm with courses on Scalable Data Science, Advanced Machine Learning, Signal Processing and Applied AI with DeepLearning
 
-Recently his latest book on Mastering Apache Spark V2.X (http://amzn.to/2vUHkGl) has been translated into Chinese (http://www.flag.com.tw/books/product/FT363). 
+He published a book on Mastering Apache Spark V2.X (http://amzn.to/2vUHkGl) which has been translated into Chinese (http://www.flag.com.tw/books/product/FT363). 
+
+Recently, he published a book on "What's new in TensorFlow 2.x" with O'Reilly (https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
 Romeo Kienzler is a member of the IBM Technical Expert Council and the IBM Academy of Technology - IBM’s leading brain trusts. #ibmaot
 

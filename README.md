@@ -70,6 +70,9 @@ Recently, he published a book on "What's new in TensorFlow 2.x" with O'Reilly (h
 
 Romeo Kienzler is a member of the IBM Technical Expert Council and the IBM Academy of Technology - IBM’s leading brain trusts. #ibmaot
 
+
+![alt text](https://github.com/romeokienzler/me/raw/master/img/9781492073727.jpg)
+
 ![alt text](https://github.com/romeokienzler/me/raw/master/img/41AW39ZZ3ML.jpg)
 
 ![alt text](https://github.com/romeokienzler/me/raw/master/img/FT363.jpg)

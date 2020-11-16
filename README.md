@@ -9,7 +9,7 @@ San Francisco, CA, USA
 <img src="https://github.com/romeokienzler/me/raw/master/img/profile_ai.jpg" width="250">
 
 # Contact Details
-BitMessage: lost private key, new one coming soon :)  
+BitMessage: BM-2cWmTdo3su3Dts8vNdRaNLiJPFFqGvJvwt  
 RIOT/Matrix: @romeokienzler:matrix.org  
 Keybase: romeokienzler
 

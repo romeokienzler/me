@@ -1,7 +1,7 @@
 # Personal Information
 *Romeo Kienzler*
 
-Chief Data Scientist
+CTO and Chief Data Scientist, STSM  
 IBM Center for Open Source Data and AI Technologies  
 505 Howard St  
 San Francisco, CA, USA

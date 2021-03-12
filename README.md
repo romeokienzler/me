@@ -50,7 +50,7 @@ https://www.bfh.ch/ti/de/weiterbildung/cas/practical-machine-learning/
 Romeo is a data scientist working for IBM and an advocate for ethical machine learning, transparency and privacy
 
 # Bio
-PLEASE DON'T USE THE BIO AS SPEAKER ANNONCEMENT - IT IS ONLY THERE TO SHOW OFF TO GET PAPERS ACCEPTED - PLEASE USE SPEAKER ANNOUNCEMENT ABOVE
+PLEASE DON'T USE THE BIO AS SPEAKER ANNOUNCEMENT - IT IS ONLY THERE TO SHOW OFF TO GET PAPERS ACCEPTED - PLEASE USE SPEAKER ANNOUNCEMENT ABOVE
 
 Romeo Kienzler is Chief Data Scientist at the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
 

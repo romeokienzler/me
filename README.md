@@ -52,7 +52,7 @@ Romeo is a data scientist working for IBM and an advocate for ethical machine le
 # Bio
 PLEASE DON'T USE THE BIO AS SPEAKER ANNOUNCEMENT - IT IS ONLY THERE TO SHOW OFF TO GET PAPERS ACCEPTED - PLEASE USE SPEAKER ANNOUNCEMENT ABOVE
 
-Romeo Kienzler is Chief Data Scientist at the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
+Romeo Kienzler is CTO and Chief Data Scientist of the IBM Center for Open Source Data and AI Technologies (CODAIT) in San Fransisco.
 
 He holds an M. Sc. (ETH) in Computer Science with specialisation in Information Systems, Bioinformatics and Applied Statistics from the Swiss Federal Institute of Technology Zurich. 
 

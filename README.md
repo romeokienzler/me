@@ -9,7 +9,7 @@ San Francisco, CA, USA
 <img src="https://github.com/romeokienzler/me/raw/master/img/profile_ai.jpg" width="250">
 
 # Contact Details
-BitMessage: BM-2cWmTdo3su3Dts8vNdRaNLiJPFFqGvJvwt  
+BitMessage: BM-2cXG5EK89HrJo2sGsBiENRqPAVhu7VjgXs  
 RIOT/Matrix: @romeokienzler:matrix.org
 
 # List of prepared >>[Talks](https://github.com/romeokienzler/me/blob/master/TALKS.md)<<

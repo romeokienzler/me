@@ -10,9 +10,9 @@ San Francisco, CA, USA
 
 # Contact Details
 BitMessage: BM-2cXG5EK89HrJo2sGsBiENRqPAVhu7VjgXs  
-Element/Matrix: @romeokienzler:matrix.org
-Mastodon: @romeokienzler@mastodon.online
-PGP-Message: https://encrypt.to/romeokienzler
+Element/Matrix: @romeokienzler:matrix.org  
+Mastodon: @romeokienzler@mastodon.online  
+PGP-Message: https://encrypt.to/romeokienzler  
 
 # List of prepared >>[Talks](https://github.com/romeokienzler/me/blob/master/TALKS.md)<<
 

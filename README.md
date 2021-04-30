@@ -10,7 +10,7 @@ San Francisco, CA, USA
 
 # Contact Details
 BitMessage: BM-2cXG5EK89HrJo2sGsBiENRqPAVhu7VjgXs  
-RIOT/Matrix: @romeokienzler:matrix.org
+Element/Matrix: @romeokienzler:matrix.org
 
 # List of prepared >>[Talks](https://github.com/romeokienzler/me/blob/master/TALKS.md)<<
 

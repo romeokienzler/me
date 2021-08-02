@@ -10,6 +10,13 @@ scikit-learn, pandas, R, TensorFlow, PyTorch and ApacheSpark and can be easily e
 adversarial robustness are supported.
 This topic has been peer-reviewed and published => http://conference.scipy.org/proceedings/scipy2021/pdfs/ivan_nesic.pdf
 
+# MyCroft - the open source  privacy preserving digital voice assistant
+Alexa, Cortana, Siri and Google Assistant have one thing in common. They send your data unencrypted
+to long term storage and analysis to the cloud. MyCroft tries to tackle this problem by providing a fully
+open source personal assistant framework running on custom hardware, Raspberry Pi or your Desktop.
+In this talk we demo MyCroft and assess it's architecture from a privacy point of view. (Optionally: we
+show you how custom MyCroft skills can easily be created)
+
 # How to build a self-serving data science platform with Open Source only
 ## Short Abstract
 Cloud data science platforms are a nice thing as they completely remove the burden to operate them and let employees concentrate on solving problems. But this also often means complete vendor lock-in. In this tutorial we present the Open Source Data Science Platform which runs on any Kubernetes environment. In the cloud, in your data center and even on your laptop.

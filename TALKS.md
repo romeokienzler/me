@@ -2,6 +2,14 @@
 Why are most DeepRL publications on playing video games? Because we have a perfect simulator? Can’t we use the abundance of historic financial data as a simulator for trading bots. I meant agents of course. This workshop covers the basics of DeepRL by explaining how AlphaGo Zero works and takes you towards an end to end implementation of a DeepRL based bot for trading. This is my contribution to democratize Artificial Intelligence in Finance.
 
 
+# Reusable (visual) components for AI, MLOps, TrustedAI (Open Source)
+Using the Elyra pipeline editor for JupyterLab and VSCode we've developed a no-code/low-code environment
+which allows for mixing and matching ready-made components (CLAIMED component library), python/R scripts and
+notebooks as well as KubeFlow pipeline components into full round trip no-code/low-code editing with support for local execution as well as on Airflow or KubeFlow on top of Kubernetes. CLAIMED supports
+scikit-learn, pandas, R, TensorFlow, PyTorch and ApacheSpark and can be easily extended to support anything which can run in a (docker) container. For TrustedAI, bias detection/fairness, explainability and
+adversarial robustness are supported.
+This topic has been peer-reviewed and published => http://conference.scipy.org/proceedings/scipy2021/pdfs/ivan_nesic.pdf
+
 # How to build a self-serving data science platform with Open Source only
 ## Short Abstract
 Cloud data science platforms are a nice thing as they completely remove the burden to operate them and let employees concentrate on solving problems. But this also often means complete vendor lock-in. In this tutorial we present the Open Source Data Science Platform which runs on any Kubernetes environment. In the cloud, in your data center and even on your laptop.

@@ -4,7 +4,7 @@ Why are most DeepRL publications on playing video games? Because we have a perfe
 
 # Reusable (visual) components for AI, MLOps, TrustedAI (Open Source)
 Using the Elyra pipeline editor for JupyterLab and VSCode we've developed a no-code/low-code environment
-which allows for mixing and matching ready-made components (CLAIMED component library), python/R scripts and
+which allows for mixing and matching ready-made components ([CLAIMED](https://github.com/elyra-ai/component-library) component library), python/R scripts and
 notebooks as well as KubeFlow pipeline components into full round trip no-code/low-code editing with support for local execution as well as on Airflow or KubeFlow on top of Kubernetes. CLAIMED supports
 scikit-learn, pandas, R, TensorFlow, PyTorch and ApacheSpark and can be easily extended to support anything which can run in a (docker) container. For TrustedAI, bias detection/fairness, explainability and
 adversarial robustness are supported.

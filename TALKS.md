@@ -60,7 +60,7 @@ In 2019 we've noticed a tremendous shift of client demand on model creation to m
  
 DeepLearning is so powerful that it rapidly transforms the Machine Learning space. But DeepLearning is very resource and data hungry. In this talk we show how neural network training works and how it can be parallelized on large scale GPU clusters using inter-model, intra-model, data  and pipelined parallelism. We’ll use TensorFlow 2.0 for demonstration purposes.
 
-# Towards de-facto standard in AI: TensorFlow 2.0 and KubeFlow
+# Towards de-facto standard in AI: TensorFlow 2.x and KubeFlow
  
 *Short Abstract*: TensorFlow was the hype in 2015. But we discovered many flaws, most of them addressed by Keras and PyTorch. TensorFlow V2 addressed all those and even went beyond what we could imagine in our wildest dreams! This seems to make other frameworks obsolete. In addition, by running natively on Kubernetes using KubeFlow, TensorFlow V2 has the potential to become the de-facto standard for any AI project
  

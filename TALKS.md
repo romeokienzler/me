@@ -1,3 +1,6 @@
+# The open source serverless data lakehouse - the next evolution in big data
+Serverless promises huge cost reduction in operations, increase of stability and scalability and overall increase of developer and user happiness. We bring the serverless delta architecture to kubernetes using open source standards and technologies including Apache Iceberg, Knative/Kubernetes, Cloud Object Store, Apache Kafka and KFServing into a single open source reference architecture capable of running on any Kubernetes service in the Cloud (IBM, Amazon, Google, Microsoft, …) as well as on on-premises datacenters (RedHat Openshift, …). The architecture combines batch and stream processing, data lakes, data catalogs and data warehouses, business intelligence and machine learning.
+
 # Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 Why are most DeepRL publications on playing video games? Because we have a perfect simulator? Can’t we use the abundance of historic financial data as a simulator for trading bots. I meant agents of course. This workshop covers the basics of DeepRL by explaining how AlphaGo Zero works and takes you towards an end to end implementation of a DeepRL based bot for trading. This is my contribution to democratize Artificial Intelligence in Finance.
 

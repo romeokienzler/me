@@ -69,9 +69,9 @@ He published a book on Mastering Apache Spark V2.X (http://amzn.to/2vUHkGl) whic
 
 He published a book on "What's new in TensorFlow 2.x" with O'Reilly (https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
 
-Recently, he lead the donation of the JupyterLab/Elyra nocode/locode Data and AI system to the Linux Foundation AI. Elyra democatizes Data and AI Pipeline development, execution and productionization.
+Recently, he lead the donation of the JupyterLab/Elyra nocode/locode Data and AI system to the Linux Foundation AI. Elyra democratizes Data and AI Pipeline development, execution and productionization.
 
-He is also main author and contributor to the CLAIMED framework - the Component Library for AI, Machine Learning, ETL and Data Science which further democatizes Data and AI by providing opinionated, coarse grained reusable component for Data and AI including TrustedAI.
+He is also main author and contributor to the CLAIMED framework - the Component Library for AI, Machine Learning, ETL and Data Science which further democratizes Data and AI by providing opinionated, coarse grained reusable component for Data and AI including TrustedAI.
 
 Romeo Kienzler is a member of the IBM Technical Expert Council and the IBM Academy of Technology - IBM’s leading brain trusts. #ibmaot
 

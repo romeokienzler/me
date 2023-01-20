@@ -1,15 +1,12 @@
 # Personal Information
 *Romeo Kienzler*
 
-CTO and Chief Data Scientist, STSM  
-IBM Center for Open Source Data and AI Technologies  
-505 Howard St  
-San Francisco, CA, USA
-
+Senior Scientific Software Engineer  
+STSM - Physics & AI for Climate Impact (PHACT) - IBM Research Europe  
+Säumerstrasse 4, 8803 Rüschlikon, Switzerland
 <img src="https://github.com/romeokienzler/me/raw/master/img/profile_ai.jpg" width="250">
 
 # Contact Details
-BitMessage: BM-2cXG5EK89HrJo2sGsBiENRqPAVhu7VjgXs  
 Element/Matrix: @romeokienzler:matrix.org  
 Mastodon: @romeokienzler@mastodon.online  
 PGP-Message: https://encrypt.to/romeokienzler  

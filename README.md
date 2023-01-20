@@ -3,7 +3,8 @@
 
 Senior Scientific Software Engineer  
 STSM - Physics & AI for Climate Impact (PHACT) - IBM Research Europe  
-Säumerstrasse 4, 8803 Rüschlikon, Switzerland
+Säumerstrasse 4, 8803 Rüschlikon, Switzerland  
+
 <img src="https://github.com/romeokienzler/me/raw/master/img/profile_ai.jpg" width="250">
 
 # Contact Details
